@@ -25,3 +25,9 @@
     position: fixed;
     width: 100%;
 }
+
+canvas{
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px white;
+    margin-bottom: 50px;
+}
